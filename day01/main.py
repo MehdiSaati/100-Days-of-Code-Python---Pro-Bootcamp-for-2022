@@ -1,30 +1,31 @@
 # Mehdi Saati
+print("Wellcome to the mehdi saati first project")
 
-print("Welcome to the Mehdi Saati project.")
+# initialize the variable as empty string
 
-# initialize the variables as empty strings
+name = ""
 city = ""
-pet_name = "" 
 
-# simple check to make sure the user has entered something
+# simple check to make sure the user has entered somthing
+
 while True:
-    print("What's the name of the city you grew up in?")
-    city = input("> ")
-    # if there's no input, ask again
+    print("Please entered your name?")
+    name = input("> ")
+    #if there's no input, ask again
+    if name == "":
+        print("you haven't entered anything. Please try again")
+    #if there's any input at all, break out of the loop
+    else:
+         break
+    # do the some for city name
+while True:
+    print("what's your citeis name?")
+    city =input("> ")
     if city == "":
         print("You haven't entered anything. Please try again.")
-    # if there's any input at all, break out of the loop
     else:
-        break
+         break
+# output using f-string makes the code much more readable
+print(f"Your name {name} and your city {city}.")
 
-# do the same for the pet name
-while True:
-    print("What's your pet's name?")
-    pet_name = input("> ")
-    if pet_name == "":
-        print("You haven't entered anything. Please try again.")
-    else:
-        break
 
-# output using f-strings makes the code much more readable
-print(f"Your band name could be {city} {pet_name}.")
