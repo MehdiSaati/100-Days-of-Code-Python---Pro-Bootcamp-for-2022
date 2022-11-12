@@ -9,3 +9,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### __Day 1 - Working with Variables in Python to Manage Data__
 
 ---
+---
+#### __Day 2 - Understanding Data Types and How to Manipulate Strings__
+
+---
