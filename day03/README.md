@@ -6,4 +6,4 @@
 - Multiple If Statements in Succession
 - Logical Operators
 ## Treasure Island
- 
+## odd or even number
