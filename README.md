@@ -17,6 +17,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### __Day 3 - Control Flow and Logical Operators__
 
 ---
-### __Day 4 - Randomisation and Python Lists__
+#### __Day 4 - Randomisation and Python Lists__
 
 ---
