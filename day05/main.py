@@ -34,7 +34,7 @@ for char in range(1, n_numbers + 1):
     
 # Shuffle a list (reorganize the order of the list items)   
 random.shuffle(password_list)
-
+# Convert list to string
 for char in password_list:
     password += char
 print(f"Here is your password : {password}")
