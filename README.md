@@ -23,9 +23,13 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 5 - Python Loops
 
 ---
-### Day 6 - Python Functions & Karel
+#### Day 6 - Python Functions & Karel
 * [Solution: Reeborg's World: Hurdle 1](day06/ReeborgsWorldHurdle1.txt)
 * [Solution: Reeborg's World: Hurdle 2](day06/ReeborgsWorldHurdle2.txt)
 * [Solution: Reeborg's World: Hurdle 3](day06/ReeborgsWorldHurdle3.txt)
 * [Solution: Reeborg's World: Hurdle 4](day06/ReeborgsWorldHurdle4.txt)
 * [Solution: Reeborg's World: Maze](day06/ReeborgsWorldMaze.txt)
+
+---
+#### Day 7 - Hangman
+* [Solution: Hangman](day07/.)
