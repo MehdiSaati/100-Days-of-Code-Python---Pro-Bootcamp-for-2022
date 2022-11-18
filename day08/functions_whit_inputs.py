@@ -18,4 +18,4 @@ def greet_whit(name,location):
     print(f"Hello {name}")
     print(f"What is it like in {location}")
 greet_whit(name = "mehdi", location = "iran")
-input(">")
+ 
