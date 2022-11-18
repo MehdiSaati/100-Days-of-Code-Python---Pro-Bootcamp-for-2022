@@ -8,8 +8,14 @@
 # greet()
 
 # Function that allows for input
-def greet_whit_name(name):
+# def greet_whit_name(name):
+#     print(f"Hello {name}")
+#     print(f"How do you do {name}?")
+# greet_whit_name("mehdi")
+
+# Function whit more that 1
+def greet_whit(name,location):
     print(f"Hello {name}")
-    print(f"How do you do {name}?")
-greet_whit_name("mehdi")
- 
+    print(f"What is it like in {location}")
+greet_whit(name = "mehdi", location = "iran")
+input(">")
