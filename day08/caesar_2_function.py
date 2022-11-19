@@ -10,8 +10,8 @@ while True:
         for letter in plain_text:
             position = alphabet.index(letter)
             new_position = position + shift_amount
-            if new_position > 28:
-               new_position -= 28
+            if new_position > 26:
+               new_position -= 26
             new_letter = alphabet[new_position]
             cipher_text += new_letter
         print(f"The encode text is : {cipher_text}\n")
@@ -22,7 +22,7 @@ while True:
             position = alphabet.index(letter)
             new_position = position - shift_amount
             if new_position < 0:
-               new_position += 28
+               new_position += 26
             new_letter = alphabet[new_position]
             plain_text += new_letter
         print(f"The decode text is : {plain_text}\n")
