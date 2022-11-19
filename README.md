@@ -33,3 +33,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 7 - Hangman
 * [Solution: Hangman](day07/.)
+
+---
+### Day 8 - Function Parameters & Caesar Cipher
+* [Solution: Caesar Cipher](day08/.)
