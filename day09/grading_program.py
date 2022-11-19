@@ -1,3 +1,4 @@
+# Grading Program
 student_score = {
     "Harry": 81,
     "Ron": 78,
@@ -20,4 +21,3 @@ for item in student_score:
 
 print(student_grades)
 
-input("<")
