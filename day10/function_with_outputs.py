@@ -12,4 +12,4 @@ l_name = input("What last name?")
 
 formated_string = format_name(f_name, l_name)
 print(formated_string)
-input(">")
+ 
