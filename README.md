@@ -37,3 +37,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 8 - Function Parameters & Caesar Cipher
 * [Solution: Caesar Cipher](day08/.)
+---
+#### Day 9 - Dictionaries, Nesting and the Secret Auction
+* [Solution: Secret Auction](day09/.)
