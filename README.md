@@ -40,3 +40,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 9 - Dictionaries, Nesting and the Secret Auction
 * [Solution: Secret Auction](day09/.)
+---
+#### Day 10 - Functions with Outputs
+* [Solution: Calculator](day10/.)
