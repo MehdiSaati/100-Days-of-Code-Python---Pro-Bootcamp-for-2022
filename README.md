@@ -43,3 +43,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 10 - Functions with Outputs
 * [Solution: Calculator](day10/.)
+---
+#### Day 11 - The Blackjack Capstone Project
+* [Solution: Blackjack](day11/.)
