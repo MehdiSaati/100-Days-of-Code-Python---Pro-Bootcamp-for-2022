@@ -52,3 +52,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 13 - Debugging: How to Find and Fix Errors in your Code
 * [Solution: Debugging](day13/.)
+---
+#### Day 14 - Higher Lower Game Project
+* [Solution: Higher Lower Game](day14/.)
