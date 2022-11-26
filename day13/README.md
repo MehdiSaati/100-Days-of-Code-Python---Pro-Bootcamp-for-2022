@@ -6,6 +6,6 @@
 - Squashing bugs with a print() Statement
 - Using a Debugger
 ## Exercises
- Exercise%201%20-%20Debugging%20Odd%20or%20Even): Debugging Odd or Even
- Exercise%202%20-%20Debugging%20Leap%20Year): Debugging Leap Year
- Exercise%203%20-%20Debugging%20FizzBuzz): Debugging FizzBuzz
+  Debugging Odd or Even
+  Debugging Leap Year
+  Debugging FizzBuzz
