@@ -49,3 +49,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 12 - Scope & Number Guessing Game
 * [Solution: Guess the Number](day12/.)
+---
+#### Day 13 - Debugging: How to Find and Fix Errors in your Code
+* [Solution: Debugging](day13/.)
