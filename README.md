@@ -55,3 +55,8 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 14 - Higher Lower Game Project
 * [Solution: Higher Lower Game](day14/.)
+
+## 📚 Intermediate
+---
+#### Day 15 - Local Development Environment Setup & the Coffee Machine
+* [Solution: Coffee Machine](day15/.)
