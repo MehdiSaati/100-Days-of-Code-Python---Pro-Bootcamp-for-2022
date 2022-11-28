@@ -60,3 +60,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 15 - Local Development Environment Setup & the Coffee Machine
 * [Solution: Coffee Machine](day15/.)
+---
+#### Day 16 - Object Oriented Programming (OOP)
+* [Solution: OOP Coffee Machine](day16/.)
