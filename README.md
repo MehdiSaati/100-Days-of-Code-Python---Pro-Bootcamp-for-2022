@@ -63,3 +63,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 16 - Object Oriented Programming (OOP)
 * [Solution: OOP Coffee Machine](day16/.)
+---
+#### Day 17 - The Quiz Project & the Benefits of OOP
+* [Solution: Quiz](day17/.)
