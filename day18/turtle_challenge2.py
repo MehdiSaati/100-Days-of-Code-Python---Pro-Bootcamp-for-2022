@@ -33,4 +33,4 @@ for _ in range(4):
 my_screen = Screen()
 my_screen.exitonclick()
 
-input(">")
+ 
