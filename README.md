@@ -69,3 +69,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 18 - Turtle & the Graphical User Interface (GUI)
 * [Solution: Hirst Painting](day18/.)
+---
+#### Day 19 - Instances, State and Higher Order Functions
+* [Solution: Turtle Race](day19/.)
