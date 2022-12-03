@@ -72,3 +72,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 19 - Instances, State and Higher Order Functions
 * [Solution: Turtle Race](day19/.)
+---
+#### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+* [Solution: Snake Game Part 1](day20/.)
