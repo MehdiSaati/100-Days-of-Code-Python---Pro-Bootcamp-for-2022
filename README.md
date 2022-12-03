@@ -75,3 +75,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 * [Solution: Snake Game Part 1](day20/.)
+---
+#### Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+* [Solution: Snake Game Part 2](day21/.)
