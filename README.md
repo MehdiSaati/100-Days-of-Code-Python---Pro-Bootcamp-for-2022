@@ -78,3 +78,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 * [Solution: Snake Game Part 2](day21/.)
+---
+#### Day 22 - Build Pong: The Famous Arcade Game
+* [Solution: Pong](day22/.)
