@@ -81,3 +81,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 22 - Build Pong: The Famous Arcade Game
 * [Solution: Pong](day22/.)
+---
+#### Day 23 - The Turtle Crossing Capstone Project
+* [Solution: Turtle Crossing](day23/.)
