@@ -84,3 +84,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 23 - The Turtle Crossing Capstone Project
 * [Solution: Turtle Crossing](day23/.)
+---
+#### Day 24 - Files, Directories and Paths
+* [Solution: Mail Merge](day24/.)
