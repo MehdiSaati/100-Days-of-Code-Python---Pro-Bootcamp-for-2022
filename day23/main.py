@@ -8,14 +8,12 @@ screen.setup(600, 600)
 screen.title("Race Turtle")
 screen.tracer(0)
 
-
 player = Player()
 
 screen.listen()
 screen.onkey(player.go_up, "Up")
 car_manager = CarManager()
 scoreboard = Scoreboard()
-
 
 game_is_on = True
 while game_is_on:
@@ -34,7 +32,7 @@ while game_is_on:
         
         player.go_to_start()
         car_manager.leve_up()
-        scoreboard.level_up()
+        scoreboard.increase_level()
 
 
 screen.exitonclick()
