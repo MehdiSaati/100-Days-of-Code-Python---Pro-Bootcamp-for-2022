@@ -87,3 +87,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 24 - Files, Directories and Paths
 * [Solution: Mail Merge](day24/.)
+---
+#### Day 25 - Working with CSV Data and the Pandas Library
+* [Solution: U.S. States Game](day25/.)
