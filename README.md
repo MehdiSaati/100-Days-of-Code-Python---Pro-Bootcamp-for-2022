@@ -90,3 +90,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 25 - Working with CSV Data and the Pandas Library
 * [Solution: U.S. States Game](day25/.)
+---
+#### Day 26 - List Comprehension and the NATO Alphabet
+* [Solution: NATO Alphabet](day26/.)
