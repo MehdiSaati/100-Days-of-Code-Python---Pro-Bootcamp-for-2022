@@ -93,3 +93,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 26 - List Comprehension and the NATO Alphabet
 * [Solution: NATO Alphabet](day26/.)
+---
+#### Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
+* [Solution: Mile to Kilometers Converter](day27/.)
