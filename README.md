@@ -96,3 +96,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 * [Solution: Mile to Kilometers Converter](day27/.)
+---
+#### Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+* [Solution: Pomodoro](day28/.)
