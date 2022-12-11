@@ -3,8 +3,8 @@ from tkinter import *
 import time
 import math
 # --------------------- CONSTANTS ---------------------------#
-WORK_MIN = 1
-SHORT_BREAK_MIN = 1
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 # colors for easier access
 # https://colorhunt.co/
