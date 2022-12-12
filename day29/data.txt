@@ -1,0 +1,5 @@
+facebook | example@gmail.com | 123 
+insta | example@gmail.com | 123 
+telgram | example@gmail.com | 123 
+yahoo | example@gmail.com | 123 
+google | example@gmail.com | 123 
