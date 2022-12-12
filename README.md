@@ -99,3 +99,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 * [Solution: Pomodoro](day28/.)
+---
+#### Day 29 - Building a Password Manager GUI App with Tkinter
+* [Solution: Password Manager](day29/.)
