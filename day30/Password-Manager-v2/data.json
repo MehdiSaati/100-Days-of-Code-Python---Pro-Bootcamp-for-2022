@@ -1,0 +1,26 @@
+{
+    "yahoo": {
+        "email": "Email@example.com",
+        "password": "u+%oU$THbKpB2124"
+    },
+    "google": {
+        "email": "Email@example.com",
+        "password": "BiX9*&9kWfg7Rw"
+    },
+    "ebay": {
+        "email": "Email@example.com",
+        "password": "*7br9(TjUh3It"
+    },
+    "facebook": {
+        "email": "Email@example.com",
+        "password": "KJ5N&%jGa!8!wx"
+    },
+    "telegram": {
+        "email": "Email@example.com",
+        "password": "fr4PB5Wp)2nV*gD"
+    },
+    "Amazon": {
+        "email": "Email@example.com",
+        "password": "19Dfkw$H9+IOFOg"
+    }
+}
