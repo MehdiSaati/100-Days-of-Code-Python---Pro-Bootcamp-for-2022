@@ -1,11 +1,11 @@
 # Key Error Handling Exercise
 facebook_posts = [
-    {'likes':21, 'comments': 2},
-    {'likes':13, 'comments': 2, 'shares': 1},
-    {'likes':33, 'comments': 8, 'shares': 3},
-    {'likes':4, 'comments': 2},
-    {'likes':1, 'comments': 1},
-    {'likes':19, 'comments': 3},
+    {'Likes': 21, 'Comments': 2},
+    {'Likes': 13, 'Comments': 2, 'Shares': 1},
+    {'Likes': 33, 'Comments': 8, 'Shares': 3},
+    {'Comments': 4, 'Shares': 2},
+    {'Comments': 1, 'Shares': 1},
+    {'Likes':19, 'Comments': 3},
 ]
 
 total_likes = 0
@@ -18,3 +18,4 @@ for post in facebook_posts:
         total_likes += 0
 
 print(total_likes)
+
