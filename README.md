@@ -105,3 +105,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 * [Solution: Password Manager Improved](day30/.)
+---
+#### Day 31 - Flash Card App Capstone Project
+* [Solution: Flash Card App](day31/.)
