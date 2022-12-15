@@ -108,3 +108,9 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 31 - Flash Card App Capstone Project
 * [Solution: Flash Card App](day31/.)
+
+## 👨‍💻 Intermediate+
+---
+
+### Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+* [Solution: Automated Birthday Wisher](day32/.)
