@@ -117,3 +117,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
 * [Solution: ISS Overhead Notifier](day33/.)
+---
+#### Day 34 - API Practice - Creating a GUI Quiz App
+* [Solution: Quizzler](day34/.)
