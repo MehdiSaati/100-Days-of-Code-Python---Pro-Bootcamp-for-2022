@@ -120,3 +120,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 34 - API Practice - Creating a GUI Quiz App
 * [Solution: Quizzler](day34/.)
+---
+#### Day 35 - Keys, Authentication & Environment Variables: Send SMS
+* [Solution: SMS Rain Alert](day35/.)
