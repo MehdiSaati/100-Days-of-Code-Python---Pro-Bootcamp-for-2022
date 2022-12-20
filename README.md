@@ -123,3 +123,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 35 - Keys, Authentication & Environment Variables: Send SMS
 * [Solution: SMS Rain Alert](day35/.)
+---
+#### Day 36 - Stock Trading News Alert Project
+* [Solution: SMS Stock News](day36/.)
