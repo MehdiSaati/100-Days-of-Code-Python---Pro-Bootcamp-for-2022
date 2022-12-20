@@ -35,7 +35,7 @@ else:
 
 diff_percent = round(difference / float(yesterday_closing_price)) * 100
 
-if abs(diff_percent) < 4 :
+if abs(diff_percent) > 1 :
     news_parameters = {
         "qInTitle": COMPANY_NAME,
         "from": "2022-11-20",
