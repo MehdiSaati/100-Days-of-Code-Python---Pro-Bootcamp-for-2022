@@ -130,3 +130,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 37 - Habit Tracking Project: API Post Requests & Headers
 * [Solution: Habit Tracking](day37/.)
 * [Pixela Graph](https://pixe.la/v1/users/mehdi-know/graphs/graph1.html)
+---
+#### Day 38 - Workout Tracking Using Google Sheets
+* [Solution: Exercise Tracking](day38/.)
+
