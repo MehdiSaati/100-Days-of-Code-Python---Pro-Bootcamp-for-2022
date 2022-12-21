@@ -126,3 +126,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 36 - Stock Trading News Alert Project
 * [Solution: SMS Stock News](day36/.)
+---
+#### Day 37 - Habit Tracking Project: API Post Requests & Headers
+* [Solution: Habit Tracking](day37/.)
+* [Pixela Graph](https://pixe.la/v1/users/mehdi-know/graphs/graph1.html)
