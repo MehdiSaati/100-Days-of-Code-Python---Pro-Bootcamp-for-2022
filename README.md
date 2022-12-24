@@ -136,5 +136,5 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 39 - Capstone Part 1: Flight Deal Finder
 * [Solution: Flight Deal Finder](day39/.)
-* [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1YMK-kYDYwuiGZoawQy7zyDjEIU9u8oggCV4H2M9j7os/edit#gid=0)
+* [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1_SNjJw2hmsOqhGCaXJvqAMDNOA14QFwJycSD1wxuNbY/edit#gid=0)
 
