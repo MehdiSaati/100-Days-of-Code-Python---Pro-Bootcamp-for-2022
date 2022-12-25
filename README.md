@@ -141,4 +141,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 40 - Capstone Part 2: Flight Club
 * [Solution: Flight Club](day40/.)
 * [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1_SNjJw2hmsOqhGCaXJvqAMDNOA14QFwJycSD1wxuNbY/edit#gid=0)
+---
+#### Day 41 - Web Foundation - Introduction to HTML
+* [Solution: HTML - Personal Site](day41/.)
 
