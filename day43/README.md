@@ -8,5 +8,5 @@
 - CSS Selectors
 - Classes vs. Ids
 - HTML Website Using CSS
-![day43](https://user-images.githubusercontent.com/117528133/209528431-991282d6-649b-4c89-a28f-360959cf683c.jpg)
+![day43](https://user-images.githubusercontent.com/117528133/209671845-15c33ad5-ada9-419a-bcab-4fb521363c20.jpg)
  

@@ -147,4 +147,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 42 - Web Foundation - Intermediate HTML
 * [Solution: Forms and Tables in HTML](day42/.)
+---
+#### Day 43 - Web Foundation - Introduction to CSS
+* [Solution: External CSS](day43/.)
 
