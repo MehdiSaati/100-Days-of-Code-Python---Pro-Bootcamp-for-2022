@@ -150,4 +150,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 43 - Web Foundation - Introduction to CSS
 * [Solution: External CSS](day43/.)
-
+---
+#### Day 44 - Web Foundation - Intermediate CSS
+* [Solution: CSS - My Site](day44/.)
