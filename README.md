@@ -153,3 +153,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 44 - Web Foundation - Intermediate CSS
 * [Solution: CSS - My Site](day44/.)
+---
+#### Day 45 - Web Scraping with Beautiful Soup
+* [Solution: Top 100 Movies](day45/.)
