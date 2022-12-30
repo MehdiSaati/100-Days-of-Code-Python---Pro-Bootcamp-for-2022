@@ -156,3 +156,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 45 - Web Scraping with Beautiful Soup
 * [Solution: Top 100 Movies](day45/.)
+---
+#### Day 46 - Create a Spotify Playlist using the Musical Time Machine
+* [Solution: Musical Time Machine](day46/.)
