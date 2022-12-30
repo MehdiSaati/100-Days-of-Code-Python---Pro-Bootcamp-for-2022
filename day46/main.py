@@ -21,14 +21,6 @@ number_one = number_one.replace("\n", "")
 song_titles = [song.getText().replace("\n", "") for song in all_songs]
 song_titles.insert(0, number_one)
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-
-results = sp.current_user_saved_tracks()
-for idx, item in enumerate(results['items']):
-    track = item['track']
-    print(idx, track['artists'][0]['name'], " – ", track['name'])
-
-
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
         client_id=f"{SPOTIPY_CLIENT_ID}",
