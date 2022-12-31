@@ -159,3 +159,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 46 - Create a Spotify Playlist using the Musical Time Machine
 * [Solution: Musical Time Machine](day46/.)
+---
+#### Day 47 - Create an Automated Amazon Price Tracker
+* [Solution: Amazon Price Tracker](day47/.)
