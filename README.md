@@ -162,3 +162,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 47 - Create an Automated Amazon Price Tracker
 * [Solution: Amazon Price Tracker](day47/.)
+---
+#### Day 48 - Selenium Webdriver Browser and Game Playing Bot
+* [Solution: Cookie Clicker](day48/.)
