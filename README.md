@@ -165,3 +165,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 48 - Selenium Webdriver Browser and Game Playing Bot
 * [Solution: Cookie Clicker](day48/.)
+---
+#### Day 49 - Automating Job Applications on LinkedIn
+* [Solution: Automated Job Application Bot](day49/.)
