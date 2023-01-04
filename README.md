@@ -171,3 +171,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 50 - Auto Tinder Swiping Bot
 * [Solution: Auto Tinder Swiper](day50/.)
+---
+#### Day 51 - Internet Speed Twitter Complaint Bot
+* [Solution: Internet Speed Twitter Bot](day51/.)
