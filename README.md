@@ -174,3 +174,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 51 - Internet Speed Twitter Complaint Bot
 * [Solution: Internet Speed Twitter Bot](day51/.)
+---
+#### Day 52 - Instagram Follower Bot
+* [Solution: Instagram Follower Bot](day52/.)
