@@ -177,3 +177,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 52 - Instagram Follower Bot
 * [Solution: Instagram Follower Bot](day52/.)
+---
+#### Day 53 - Web Scraping Capstone - Data Entry Job Automation
+* [Solution: Zillow Rental Research](day53/.)
+* [Google Sheets Spreadsheet](https://docs.google.com/forms/d/16tzuLrpzeJhX3RPt4jif2TN8puwlWmDKu3Jzyb0D_No/edit
