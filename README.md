@@ -181,3 +181,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 53 - Web Scraping Capstone - Data Entry Job Automation
 * [Solution: Zillow Rental Research](day53/.)
 * [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/16w7MZFzsVSytvD05paYQ_jiEHN7DjY1oWfJhVUfMmb8/edit#gid=267034221)
+---
+#### Day 54 - Introduction to Web Development with Flask
+* [Solution: Flask Quickstart](day54/.)
