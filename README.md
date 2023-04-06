@@ -184,3 +184,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 54 - Introduction to Web Development with Flask
 * [Solution: Flask Quickstart](day54/.)
+---
+#### Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
+* [Solution: Flask Higher Lower Game](day55/.)
