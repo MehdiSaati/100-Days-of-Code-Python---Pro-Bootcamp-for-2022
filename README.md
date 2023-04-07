@@ -187,3 +187,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 * [Solution: Flask Higher Lower Game](day55/.)
+---
+#### Day 56 - Rendering HTML/Static files and Using Website Templates
+* [Solution: Flask Name Card Website](day56/.)
