@@ -193,3 +193,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 57 - Templating with Jinja in Flask Applications
 * [Solution: Blog Capstone Project Part 1](day57/.)
+---
+#### Day 58 - Web Foundation - Bootstrap
+* [Solution: Flask TinDog](day58/.)
