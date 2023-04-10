@@ -197,5 +197,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 58 - Web Foundation - Bootstrap
 * [Solution: Flask TinDog](day58/.)
 ---
+## 🏆 Advanced
 #### Day 59 - Blog Capstone Project - Adding Styling
 * [Solution: Blog Capstone Project Part 2](day59/.)
