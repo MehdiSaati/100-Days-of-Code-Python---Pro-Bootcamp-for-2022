@@ -3,8 +3,8 @@ import requests
 from post import Post
 import smtplib
 
-OWN_EMAIL = "mehdi.saatie@gmail.com"
-OWN_PASSWORD = "laxnefdtcsxapdwu"
+OWN_EMAIL = "YOUR EMAIL"
+OWN_PASSWORD = "YOUR PSSWORD"
 
 app = Flask(__name__)
 
