@@ -200,3 +200,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ## 🏆 Advanced
 #### Day 59 - Blog Capstone Project - Adding Styling
 * [Solution: Blog Capstone Project Part 2](day59/.)
+---
+#### Day 60 - Make POST Requests with Flask and HTML Forms
+* [Solution: Flask HTML Forms](day60/.)
