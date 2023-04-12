@@ -1,8 +1,9 @@
-# Day 60 - Make POST Requests with Flask and HTML Forms
+# Day 61 - Building Advanced Forms with Flask-WTForms
 ## Concepts Practised
-- Creating an HTML Form from Scratch
-- Handle POST Requests with Flask Servers
-- Creating a working Contact Form
-- Sending Email with smtplib
-- Functional Contact Form
-![day60](https://user-images.githubusercontent.com/117528133/231089544-19ae94d2-c54c-4392-a96a-dc75aea098b2.gif)
+- Creating Forms with Flask-WTF
+- Adding Validation to Forms with Flask-WTF
+- Receiving Form Data with WTForms
+- Inheriting Templates Using Jinja2
+- Using Flask-Bootstrap as an Inherited Template
+- Flask-WTForms
+![day61](https://user-images.githubusercontent.com/98851253/161357129-4b692c13-a2b2-43ad-a63d-021ee7a301d2.gif)
