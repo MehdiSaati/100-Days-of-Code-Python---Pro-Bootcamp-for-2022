@@ -203,3 +203,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 60 - Make POST Requests with Flask and HTML Forms
 * [Solution: Flask HTML Forms](day60/.)
+---
+#### Day 61 - Building Advanced Forms with Flask-WTForms
+* [Solution: Flask-WTF Forms](day61/.)
