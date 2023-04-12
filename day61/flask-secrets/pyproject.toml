@@ -1,0 +1,12 @@
+[tool]
+[tool.poetry]
+authors = ["Mehdi <mehdi.saaite@gmail.com>"]
+name = "root"
+version = "0.0.0"
+description="flask template"
+[tool.poetry.dependencies]
+flask = "==1.0.2"
+python = "^3.8"
+Flask-Bootstrap = "^3.3.7"
+Flask-WTF = "^1.0.1"
+WTForms = "^3.0.1"
