@@ -209,3 +209,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wi-Fi Project
 * [Solution: Coffee & Wi-Fi](day62/.)
+---
+#### Day 63 - Databases and with SQLite and SQLAlchemy
+* [Solution: Virtual Bookshelf](day63/.)
