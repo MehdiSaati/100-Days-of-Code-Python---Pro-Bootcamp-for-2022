@@ -212,3 +212,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 63 - Databases and with SQLite and SQLAlchemy
 * [Solution: Virtual Bookshelf](day63/.)
+---
+#### Day 64 - My Top 10 Movies Website Project
+* [Solution: My Top 10 Movies](day64/.)
