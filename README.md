@@ -216,5 +216,5 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 64 - My Top 10 Movies Website Project
 * [Solution: My Top 10 Movies](day64/.)
 ---
-#### Day 65 - Web Design School - How to Create a Website that People will Love
-* [Solution: Coffee & Wi-Fi v1.1](day65/.)
+#### Day 65 - Web Design Hotel - How to Create a Website that People will Love
+* [Solution: Hotel Design](day65/.)
