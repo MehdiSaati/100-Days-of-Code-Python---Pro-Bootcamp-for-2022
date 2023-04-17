@@ -5,4 +5,6 @@
 - Typography and Choosing Fonts
 - UX Design
 - Hotel Website
-![day65](https://user-images.githubusercontent.com/98851253/162840074-2b2f748b-8faa-4715-9aa9-aafd5118b511.gif)
+- * [View Live Preview](https://mehdihotel.my.canva.site/)
+![day65](https://user-images.githubusercontent.com/117528133/232432831-2fe6b370-313e-4caf-b9ea-d643b83389f4.gif)
+
