@@ -1,10 +1,10 @@
 
-# Day 64 - My Top 10 Movies Website
+# Day 65 - How to Create a Website That People Will Love
 ## Concepts Practised
-- SQLite Databases
-- SQLAlchemy
-- CRUD Operations with SQLAlchemy
-- Build a SQLite Database into the Flask Website
-- CSS & HTML
-- My Top 10 Movies Website
-![day64](https://user-images.githubusercontent.com/98851253/162594261-6130be7b-e06b-452f-b0cb-b45cb6e76b47.gif)
+- Color Theory
+- Typography and Choosing Fonts
+- UX Design
+- Hotel Website
+- * [View Live Preview](https://mehdihotel.my.canva.site/)
+![day65](https://user-images.githubusercontent.com/117528133/232432831-2fe6b370-313e-4caf-b9ea-d643b83389f4.gif)
+
