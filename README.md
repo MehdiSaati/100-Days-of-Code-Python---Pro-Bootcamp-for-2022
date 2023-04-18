@@ -218,3 +218,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 65 - Web Design Hotel - How to Create a Website that People will Love
 * [Solution: Hotel Design](day65/.)
+---
+#### Day 66 - Building Your Own API with RESTful Routing
+* [Solution: Cafe & Wifi API](day66/.)
+* [Postman Documentation](https://documenter.getpostman.com/view/2568017/TVRhd9qR#e577e8ac-1b14-401f-9843-50348146e65e)
