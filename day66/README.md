@@ -1,10 +1,7 @@
-
-# Day 64 - My Top 10 Movies Website
+# Day 66 - Building Your Own API with RESTful Routing
 ## Concepts Practised
-- SQLite Databases
-- SQLAlchemy
-- CRUD Operations with SQLAlchemy
-- Build a SQLite Database into the Flask Website
-- CSS & HTML
-- My Top 10 Movies Website
-![day64](https://user-images.githubusercontent.com/98851253/162594261-6130be7b-e06b-452f-b0cb-b45cb6e76b47.gif)
+- HTTP Requests (GET, POST, PUT, PATCH, DELETE)
+- Postman Software
+- Publish API Documentation
+- API with RESTful Routing
+<img width="1054" alt="day66" src="https://user-images.githubusercontent.com/98851253/163257600-a4924c5d-7f0b-4606-8583-0a63fbe614e6.png">
