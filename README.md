@@ -222,3 +222,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 66 - Building Your Own API with RESTful Routing
 * [Solution: Cafe & Wifi API](day66/.)
 * [Postman Documentation](https://documenter.getpostman.com/view/2568017/TVRhd9qR#e577e8ac-1b14-401f-9843-50348146e65e)
+---
+#### Day 67 - Blog Capstone Project Part 3 - RESTful Routing
+* [Solution: Blog Capstone Project Part 3](day67/.)
