@@ -231,3 +231,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 69 - Blog Capstone Project Part 4 - Adding Users
 * [Solution: Blog Capstone Project Part 4](day69/.)
+---
+#### Day 70 - Deploying Your Web Application with Heroku
+* [Solution: Blog Capstone Project for Heroku](day70/.)
