@@ -234,3 +234,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 70 - Deploying Your Web Application with Heroku
 * [Solution: Blog Capstone Project for Heroku](day70/.)
+---
+#### Day 71 - Data Exploration with Pandas: College Major v.s. Your Salary
+* [Solution: Day 71 Notebook](day71/Data_Exploration_Pandas_College_Major.ipynb)
