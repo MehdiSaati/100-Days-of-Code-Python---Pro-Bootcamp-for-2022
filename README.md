@@ -239,4 +239,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 * [Solution: Day 71 Notebook](day71/Data_Exploration_Pandas_College_Major.ipynb)
 ---
 #### Day 72 - Data Visualisation with Matplotlib: Programming Languages
-* [Solution: Day 72 Notebook](day72/Day72.ipynb)
+* [Solution: Day 72 Notebook](day72/Programming_Languages_(complete).ipynb)
