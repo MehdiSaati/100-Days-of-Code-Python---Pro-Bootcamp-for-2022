@@ -240,3 +240,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 72 - Data Visualisation with Matplotlib: Programming Languages
 * [Solution: Day 72 Notebook](day72/Programming_Languages_(complete).ipynb)
+---
+#### Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+* [Solution: Day 73 Notebook](day73/LEGO%20Notebook%20and%20Data%20(completed)/Lego_Analysis_for_Course_(completed).ipynb)
