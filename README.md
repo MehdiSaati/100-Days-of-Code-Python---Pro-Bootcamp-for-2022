@@ -243,3 +243,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 * [Solution: Day 73 Notebook](day73/LEGO%20Notebook%20and%20Data%20(completed)/Lego_Analysis_for_Course_(completed).ipynb)
+---
+#### Day 74 - Google Trends Data: Resampling and Visualising Time Series
+* [Solution: Day 74 Notebook](day74//Google%20Trends%20Data%20Viz%20(complete)/Google_Trends_and_Data_Visualisation_(complete).ipynb)
