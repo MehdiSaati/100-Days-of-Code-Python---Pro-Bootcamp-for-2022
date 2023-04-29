@@ -248,4 +248,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 * [Solution: Day 74 Notebook](day74//Google%20Trends%20Data%20Viz%20(complete)/Google_Trends_and_Data_Visualisation_(complete).ipynb)
 ---
 #### Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
-* [Solution: Day 75 Notebook](day75/9.1 Google Play Store Analysis Complete/Google_Play_Store_App_Analytics_(complete).ipynb)
+* [Solution: Day 75 Notebook](day75//9.1%20Google%20Play%20Store%20Analysis%20Complete/Google_Play_Store_App_Analytics_(complete).ipynb)
