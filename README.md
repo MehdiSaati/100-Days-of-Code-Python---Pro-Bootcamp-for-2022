@@ -249,3 +249,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
 * [Solution: Day 75 Notebook](day75//9.1%20Google%20Play%20Store%20Analysis%20Complete/Google_Play_Store_App_Analytics_(complete).ipynb)
+---
+#### Day 76 - Computation with NumPy and N-Dimensional Arrays
+* [Solution: Day 76 Notebook](day76//6.1%20Computation%20with%20NumPy%20(complete)/Computation_with_NumPy_and_N_Dimensional_Arrays_(complete).ipynb)
