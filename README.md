@@ -252,3 +252,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 76 - Computation with NumPy and N-Dimensional Arrays
 * [Solution: Day 76 Notebook](day76//6.1%20Computation%20with%20NumPy%20(complete)/Computation_with_NumPy_and_N_Dimensional_Arrays_(complete).ipynb)
+---
+#### Day 77 - Linear Regression and Data Visualisation with Seaborn
+* [Solution: Day 77 Notebook](day77/9.1%20Seaborn%20Linear%20Regression%20(complete)/Seaborn_and_Linear_Regression_(complete).ipynb)
