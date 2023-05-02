@@ -255,3 +255,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 77 - Linear Regression and Data Visualisation with Seaborn
 * [Solution: Day 77 Notebook](day77/9.1%20Seaborn%20Linear%20Regression%20(complete)/Seaborn_and_Linear_Regression_(complete).ipynb)
+---
+#### Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+* [Solution: Day 78 Notebook](day78/8.1%20Nobel%20Prize%20Analysis%20Complete/Nobel_Prize_Analysis_(complete).ipynb)
