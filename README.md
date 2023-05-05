@@ -259,6 +259,8 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 #### Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 * [Solution: Day 78 Notebook](day78/8.1%20Nobel%20Prize%20Analysis%20Complete/Nobel_Prize_Analysis_(complete).ipynb)
 ---
-#
-### Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
+#### Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
 * [Solution: Day 79 Notebook](day79/6.1%20Dr%20Semmelweis%20Analysis%20(complete)/Dr_Semmelweis_Handwashing_Discovery_(complete).ipynb)
+---
+#### Day 80 - Capstone Project - Predict House Prices
+* [Solution: Day 80 Notebook](day80/2.1%20Multivariable%20Regression%20(Complete)/Multivariable_Regression_and_Valuation_Model_(complete).ipynb)
