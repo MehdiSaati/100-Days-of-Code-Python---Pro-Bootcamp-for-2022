@@ -269,3 +269,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 81 - Text to Morse Code Converter Project
 * [Text to Morse Code Converter ](day81/.)
+---
+#### Day 82 - Portfolio Website
+* [Solution: Flask Portfolio Website ](day82/.)
+
