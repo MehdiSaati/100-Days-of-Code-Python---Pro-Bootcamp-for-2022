@@ -272,4 +272,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 82 - Portfolio Website
 * [Solution: Flask Portfolio Website ](day82/.)
+---
+#### Day 83 - Professional Portfolio Project - Python Scripting
+* [Tic Tac Toe Project](day83/.)
 
