@@ -275,4 +275,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ---
 #### Day 83 - Professional Portfolio Project - Python Scripting
 * [Tic Tac Toe Project](day83/.)
-
+---
+#### Day 84 - Professional Portfolio Project - [GUI]
+* [Image Watermarking Desktop App Project](day84/.)
